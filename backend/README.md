@@ -15,5 +15,5 @@ $ cd backend
 $ npm install
 
 # Run the app
-$ npm start
+$ npm run start
 ```
